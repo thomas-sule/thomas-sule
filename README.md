@@ -18,4 +18,4 @@
   - I once did 1747 juggles with a football
 
 - Projects:
-    - PieStars is my final group project for Dev Academy which currently lets you sign in and rate pies around NZ, in progress to update for more flavours and locations. Dreamfest and Pupparazi are both solo projects I completed while at Dev Academy.
+    - PieStars is my final group project for Dev Academy which currently lets you sign in and rate pies around NZ, created from my love for a bacon and egg pie and worked on by a little group of 3. Still in progress to update for more flavours and locations. Dreamfest and Pupparazi are both solo projects I completed while at Dev Academy.
