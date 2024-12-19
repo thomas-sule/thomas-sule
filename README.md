@@ -1,21 +1,20 @@
 ## Hi there, I'm Thomas 👋
 
-<!--
-**thomas-sule/thomas-sule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-
+    - Pie rating app
 - 🌱 I’m currently learning ...
-Client-side: HTML5, CSS, Tailwind CSS, React, Typescript
-Server-side: Node.js, Express, SQLite3, Knex, RESTful API, Auth0
+  - Client-side: HTML5, CSS, React, Typescript
+  - Server-side: Node.js, Express, SQLite3, Knex, RESTful API, Auth0
 - 👯 I’m looking to collaborate on ...
+  - Anything I find interesting
 - 🤔 I’m looking for help with ...
+  - Job insights, internship positions 
 - 💬 Ask me about ...
+  - Football, Pies, Fantasy series
 - 📫 How to reach me: ...
-https://www.linkedin.com/in/thomas-sule-64808a342/
-Thomas.sule@yahoo.co.nz
+    - https://www.linkedin.com/in/thomas-sule-64808a342/ <br>
+    - Thomas.sule@yahoo.co.nz
 - ⚡ Fun fact: ...
-Once did 1747 juggles with a football
--->
+  - I once did 1747 juggles with a football
+
+Projects:
